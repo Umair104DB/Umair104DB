@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/umairakhtar1">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://umair104db.github.io/portfolio/">
+  <a href="https://umair104db.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio"/>
   </a>
   <a href="assets/Muhammad_Umair_Akhtar_CV_Final.pdf">
@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <a href="https://umair104db.github.io/portfolio/">
+  <a href="https://umair104db.github.io/">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio website"/>
   </a>
   <a href="assets/Muhammad_Umair_Akhtar_CV_Final.pdf">
