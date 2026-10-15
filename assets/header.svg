@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050b18"/>
+      <stop offset="48%" stop-color="#071a2f"/>
+      <stop offset="100%" stop-color="#0b2447"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="48%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".25"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="330" rx="28" fill="url(#bg)"/>
+  <circle cx="1050" cy="90" r="160" fill="url(#glow)"/>
+  <circle cx="1120" cy="300" r="190" fill="#8b5cf6" opacity=".035"/>
+
+  <g opacity=".16" stroke="#60a5fa" stroke-width="1">
+    <line x1="0" y1="55" x2="1200" y2="55"/>
+    <line x1="0" y1="110" x2="1200" y2="110"/>
+    <line x1="0" y1="165" x2="1200" y2="165"/>
+    <line x1="0" y1="220" x2="1200" y2="220"/>
+    <line x1="0" y1="275" x2="1200" y2="275"/>
+    <line x1="150" y1="0" x2="150" y2="330"/>
+    <line x1="300" y1="0" x2="300" y2="330"/>
+    <line x1="450" y1="0" x2="450" y2="330"/>
+    <line x1="600" y1="0" x2="600" y2="330"/>
+    <line x1="750" y1="0" x2="750" y2="330"/>
+    <line x1="900" y1="0" x2="900" y2="330"/>
+    <line x1="1050" y1="0" x2="1050" y2="330"/>
+  </g>
+
+  <text x="64" y="72" fill="#67e8f9" font-family="Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="4">AI · MACHINE LEARNING · DATA SCIENCE</text>
+  <text x="64" y="142" fill="#ffffff" font-family="Arial, sans-serif" font-size="54" font-weight="800">Muhammad Umair Akhtar</text>
+  <rect x="64" y="161" width="505" height="4" rx="2" fill="url(#accent)"/>
+  <text x="64" y="205" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="23">BS Artificial Intelligence Student</text>
+
+  <g transform="translate(64 244)" font-family="Arial, sans-serif">
+    <rect x="0" y="0" width="122" height="42" rx="21" fill="#0b2a42" stroke="#164e63"/>
+    <text x="61" y="27" text-anchor="middle" fill="#67e8f9" font-size="14" font-weight="700">PYTHON</text>
+    <rect x="136" y="0" width="150" height="42" rx="21" fill="#111f3d" stroke="#3730a3"/>
+    <text x="211" y="27" text-anchor="middle" fill="#c4b5fd" font-size="14" font-weight="700">AI / ML</text>
+    <rect x="300" y="0" width="166" height="42" rx="21" fill="#102c27" stroke="#166534"/>
+    <text x="383" y="27" text-anchor="middle" fill="#86efac" font-size="14" font-weight="700">GEN-AI</text>
+    <rect x="480" y="0" width="175" height="42" rx="21" fill="#2b1d33" stroke="#9d174d"/>
+    <text x="567" y="27" text-anchor="middle" fill="#f9a8d4" font-size="14" font-weight="700">LEARN & BUILD</text>
+  </g>
+
+  <g transform="translate(805 65)" filter="url(#softGlow)">
+    <g stroke="url(#accent)" stroke-width="2.5" opacity=".88">
+      <line x1="40" y1="115" x2="105" y2="60"/>
+      <line x1="40" y1="115" x2="120" y2="155"/>
+      <line x1="105" y1="60" x2="185" y2="95"/>
+      <line x1="120" y1="155" x2="185" y2="95"/>
+      <line x1="120" y1="155" x2="205" y2="185"/>
+      <line x1="185" y1="95" x2="260" y2="45"/>
+      <line x1="185" y1="95" x2="275" y2="125"/>
+      <line x1="205" y1="185" x2="275" y2="125"/>
+      <line x1="275" y1="125" x2="335" y2="82"/>
+      <line x1="260" y1="45" x2="335" y2="82"/>
+    </g>
+    <g fill="#7dd3fc">
+      <circle cx="40" cy="115" r="8"/><circle cx="105" cy="60" r="7"/><circle cx="120" cy="155" r="7"/>
+      <circle cx="185" cy="95" r="10"/><circle cx="205" cy="185" r="7"/><circle cx="260" cy="45" r="7"/>
+      <circle cx="275" cy="125" r="9"/><circle cx="335" cy="82" r="8"/>
+    </g>
+    <text x="187" y="238" text-anchor="middle" fill="#94a3b8" font-family="Arial, sans-serif" font-size="14" letter-spacing="3">LEARN · BUILD · INNOVATE</text>
+  </g>
+</svg>
