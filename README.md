@@ -24,7 +24,32 @@
   <a href="https://www.linkedin.com/in/umairakhtar1">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://umair104db.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio"/>
+  </a>
+  <a href="assets/Muhammad_Umair_Akhtar_CV_Final.pdf">
+    <img src="https://img.shields.io/badge/CV-View_Resume-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View my CV"/>
+  </a>
 </p>
+
+---
+
+## 🌐 Portfolio & CV
+
+<p align="center">
+  Explore my portfolio to see my projects, skills, and learning journey in Artificial Intelligence and software development.
+</p>
+
+<p align="center">
+  <a href="https://umair104db.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio website"/>
+  </a>
+  <a href="assets/Muhammad_Umair_Akhtar_CV_Final.pdf">
+    <img src="https://img.shields.io/badge/View_My_CV-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View my CV PDF"/>
+  </a>
+</p>
+
+> Portfolio: [umair104db.github.io/portfolio](https://umair104db.github.io/portfolio/) · CV: [Open PDF](assets/Muhammad_Umair_Akhtar_CV_Final.pdf)
 
 ---
 
@@ -104,9 +129,11 @@ AI projects are in progress as I continue learning and building practical experi
 
 ### 🌐 Portfolio
 
-My portfolio link will be added here when it is ready.
+Explore my portfolio to see my projects, skills, and journey in AI and software development.
 
-![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-14B8A6?style=flat-square)
+[![Visit My Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-14B8A6?style=flat-square&logo=googlechrome&logoColor=white)](https://umair104db.github.io/portfolio/)
+
+[![View My CV](https://img.shields.io/badge/View_My_CV-2563EB?style=flat-square&logo=adobeacrobatreader&logoColor=white)](assets/Muhammad_Umair_Akhtar_CV_Final.pdf)
 
 </td>
 </tr>
