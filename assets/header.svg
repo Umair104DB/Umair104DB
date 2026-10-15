@@ -14,11 +14,7 @@
       <stop offset="0%" stop-color="#38bdf8" stop-opacity=".25"/>
       <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
     </radialGradient>
-    <filter id="softGlow">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
+</defs>
 
   <rect width="1200" height="330" rx="28" fill="url(#bg)"/>
   <circle cx="1050" cy="90" r="160" fill="url(#glow)"/>
@@ -52,10 +48,10 @@
     <rect x="300" y="0" width="166" height="42" rx="21" fill="#102c27" stroke="#166534"/>
     <text x="383" y="27" text-anchor="middle" fill="#86efac" font-size="14" font-weight="700">GEN-AI</text>
     <rect x="480" y="0" width="175" height="42" rx="21" fill="#2b1d33" stroke="#9d174d"/>
-    <text x="567" y="27" text-anchor="middle" fill="#f9a8d4" font-size="14" font-weight="700">LEARN & BUILD</text>
+    <text x="567" y="27" text-anchor="middle" fill="#f9a8d4" font-size="14" font-weight="700">LEARN &amp; BUILD</text>
   </g>
 
-  <g transform="translate(805 65)" filter="url(#softGlow)">
+  <g transform="translate(805 65)">
     <g stroke="url(#accent)" stroke-width="2.5" opacity=".88">
       <line x1="40" y1="115" x2="105" y2="60"/>
       <line x1="40" y1="115" x2="120" y2="155"/>
