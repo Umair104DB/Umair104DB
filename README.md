@@ -1,6 +1,6 @@
-<div align="center">
-
-# Muhammad Umair Akhtar
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Muhammad Umair Akhtar profile header" />
+</p>
 
 ### AI/ML Developer • Machine Learning • Deep Learning • NLP • LLMs
 
@@ -15,6 +15,9 @@
   </a>
   <a href="https://umair104db.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"/>
+   </a>
+  <a href="assets/Muhammad_Umair_Akhtar_CV_Final.pdf">
+    <img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=Resume&logoColor=white" alt="Resume"/>
   </a>
 </p>
 
@@ -108,6 +111,66 @@ Especially projects focused on solving meaningful real-world problems.
 |     Neural Networks     |    Data Analysis    |     AI Agents    |
 
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data Analysis Project
+
+A data analysis project that represents my practical work with data and Python tools.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-0EA5E9?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧾 KhataFlow
+
+A shop management and khata workflow project. The project direction includes managing shop information and business workflows.
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In_Progress-F59E0B?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 AI Projects
+
+AI projects are in progress as I continue learning and building practical experience in artificial intelligence and machine learning.
+
+![AI](https://img.shields.io/badge/Artificial_Intelligence-8B5CF6?style=flat-square)
+![Learning](https://img.shields.io/badge/Status-Learning-22C55E?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Portfolio
+
+Explore my portfolio to see my projects, skills, and journey in AI and software development.
+
+[![Visit My Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-14B8A6?style=flat-square&logo=googlechrome&logoColor=white)](https://umair104db.github.io/portfolio/)
+
+[![View My CV](https://img.shields.io/badge/View_My_CV-2563EB?style=flat-square&logo=adobeacrobatreader&logoColor=white)](assets/Muhammad_Umair_Akhtar_CV_Final.pdf)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 AI Engineering Domains
+
+<p align="center">
+  <img src="assets/ai-domains.svg" width="100%" alt="AI engineering domains" />
+</p>
 
 ---
 
@@ -231,6 +294,13 @@ Projects combining software engineering with modern web technologies, databases,
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umair104DB&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
+
+
+## 🛠️ Engineering Stack
+
+<p align="center">
+  <img src="assets/engineering-stack.svg" width="100%" alt="Engineering stack" />
+</p>
 
 ---
 
