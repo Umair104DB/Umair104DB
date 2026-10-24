@@ -2,11 +2,13 @@
   <img src="assets/header.svg" width="100%" alt="Muhammad Umair Akhtar profile header" />
 </p>
 
-### AI/ML Developer • Machine Learning • Deep Learning • NLP • LLMs
+<div align="center">
+<h3>AI/ML Developer • Machine Learning • Deep Learning • NLP • LLMs
+</p>
 
-**Building intelligent, practical, and scalable AI applications with Generative AI, RAG & LangChain.**
-
-<p>
+<p align="center">
+<strong>Building intelligent, practical, and scalable AI applications with Generative AI, RAG & LangChain.
+<p align="center">
   <a href="https://linkedin.com/in/umairakhtar-ai">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -21,7 +23,7 @@
   </a>
 </p>
 
-<p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Umair104DB&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/Umair104DB?label=FOLLOWERS&style=for-the-badge&color=2563EB" alt="GitHub Followers"/>
 </p>
