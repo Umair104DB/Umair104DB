@@ -15,7 +15,7 @@
   <a href="mailto:umairakhtar104db@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://umair104db.github.io/">
+  <a href="https://umair104db.github.io/Umair-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"/>
    </a>
   <a href="assets/Muhammad_Umair_Akhtar_CV_Final.pdf">
@@ -158,7 +158,7 @@ AI projects are in progress as I continue learning and building practical experi
 
 Explore my portfolio to see my projects, skills, and journey in AI and software development.
 
-[![Visit My Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-14B8A6?style=flat-square&logo=googlechrome&logoColor=white)](https://umair104db.github.io/portfolio/)
+[![Visit My Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-14B8A6?style=flat-square&logo=googlechrome&logoColor=white)](https://umair104db.github.io/Umair-Portfolio/)
 
 [![View My CV](https://img.shields.io/badge/View_My_CV-2563EB?style=flat-square&logo=adobeacrobatreader&logoColor=white)](assets/Muhammad_Umair_Akhtar_CV_Final.pdf)
 
